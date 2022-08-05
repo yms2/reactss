@@ -1,0 +1,10 @@
+.con5_c{
+    display: flex;
+    justify-content: space-around;
+}
+
+.con5_c img{
+    width: 460px;
+    height: 700px;
+    border-radius: 15px;
+}

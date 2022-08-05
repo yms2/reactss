@@ -1,0 +1,27 @@
+.content{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 900px;
+}
+
+.menuBar{
+    display: flex;
+    justify-content: center;
+    width:1500px;
+    height: 900px;
+}
+
+.tabs{
+    width:800px;height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: white;
+}
+.tabs li{
+    cursor: pointer;
+}
+.tabs li:hover{
+    text-decoration: underline;
+}

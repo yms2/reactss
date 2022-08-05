@@ -1,0 +1,728 @@
+
+.Sub{
+    display: inline-block;
+    width: 100%;
+}
+.Sub .Mainimg{
+    display: flex;
+    width: 100%;height: 780px;
+    background: red;
+    background: url('https://images.samsung.com/kdp/event/sec/0711_youmake/launching/kv_pc.png')no-repeat;
+}
+.Mainimg .Sub{
+    margin-top: -5px;
+}
+.Main h2{
+    position: absolute; top: 325px;left: 280px;
+    color: white;
+    font-weight: bolder;
+    font-size: 55px;
+}
+.Maintxt{
+    position: absolute;top: 485px;left: 280px;
+    color: white;
+    font-weight: bolder;
+    font-size: 23px;
+}
+
+.Subtitle{
+    display: flex;
+    justify-content: center;
+    width: 100%;height: 1300px;
+    background: url('https://images.samsung.com/kdp/event/sec/0711_youmake/launching/benefit/benefit_bg_v4.png')no-repeat;
+}
+.Subtitle ul{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -15px;
+    width: 1250px;height: 80px;
+}
+.Subtitle ul li{
+    margin-left: -40px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;    
+    width: 204px; height: 80px;
+    background: rgb(255, 255, 255);
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    cursor: pointer;
+}
+.Subtitle ul li:hover{
+    transform:  translateY(-15%);
+    transition: 0.4s;
+}
+.Subtitle span{
+    text-align: center;
+}
+.Subtitle a{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+.Subtitle .item1{
+    background:#c3e9ec;
+}
+.Subtitle .item2{
+    background:#f5e3cd;
+}
+.Subtitle .item3{
+    background:#f5ced3;
+}
+.Subtitle .item4{
+    background:#c3ccf5;
+}
+.Subtitle .item5{
+    background:#fbd0fb;
+}
+.Subtitle .item6{
+    background:#c1e2f3;
+}
+
+.Subtitle2{
+    display: inline-block;
+}
+
+.sub2txt{
+    display: flex;
+    justify-content:space-between;
+    width: 100%;
+}
+.sub2txt h2{
+    margin-top:60px ;
+    font-size: 40px;
+    color: white;
+}
+.sub2txt  span{
+    color: beige;
+}
+.sub2txt  p{
+    margin-top: 140px;
+    color: white;
+    font-weight: bold;
+}
+.sub2con{
+    display: flex;
+    justify-content: space-between;
+    width: 1300px;
+}
+.event1{
+    position: relative;
+}
+.event2{
+    position: relative;
+}
+.event3{
+    position: relative;
+}
+.sub2con li p{
+    position:absolute;top: 35px;left: 50px;
+    color: white;
+    width: 90px;
+    height: 25px;
+    line-height: 25px;
+    border-radius: 15px;
+    text-align: center;
+    background: black;
+    font-size: 13px;
+    font-weight: bold;
+}
+.sub2con li span{
+    position: absolute; top: 85px;left: 50px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+} 
+.sub2con .e_txt1{
+    position: absolute; top: 150px;left: 50px;
+    font-size: 11px;
+    color: white;
+}
+.sub2con .e_txt2{
+    position: absolute; top: 170px;left: 50px;
+    font-size: 11px;
+    color: white;
+}
+.event2 .e_txt2{
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top: 15px;
+}
+.sub2con img{
+    width: 440px;     
+}
+
+.sub2con2{
+    display: flex;
+    width: 100%;
+    justify-content:space-between ;
+}
+.sub2con2 img{
+    width: 320px;
+}
+.event4{
+    position: relative;
+}
+.event5{
+    position: relative;
+}
+.event6{
+    position: relative;
+}
+.event7{
+    position: relative;
+}
+.sub2con2 li p{
+    position:absolute;top: 35px;left: 50px;
+    color: white;
+    width: 90px;
+    height: 25px;
+    line-height: 25px;
+    border-radius: 15px;
+    text-align: center;
+    background: black;
+    font-size: 13px;
+    font-weight: bold;
+}
+.sub2con2 li span{
+    position: absolute; top: 85px;left: 50px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+} 
+.sub2con2 .e_txt1{
+    position: absolute; top: 150px;left: 50px;
+    font-size: 11px;
+    color: white;
+}
+.sub2con2 .e_txt2{
+    position: absolute; top: 170px;left: 50px;
+    font-size: 11px;
+    color: white;
+}
+.sub2con2 .e_txt3{
+    position: absolute; top: 80px;left: 50px;
+    font-size: 17px;
+    color: white;
+}
+.event6 li span{
+    position: absolute; top: 100px;
+}
+.event6 .e_txt1{
+    position: absolute; top: 160px;
+    text-decoration: underline;
+}
+.event7 li span{
+    position: absolute;top: 100px;
+}
+.event7 .e_txt1{
+    position: absolute; top: 190px;
+    text-decoration: underline;
+}
+
+.sub2con3{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.sub2con3 span{
+    font-weight: bold;
+}
+.Subtitle3{
+    display: flex;
+    justify-content: center;
+    margin-top: -180px;
+    background: url('https://images.samsung.com/kdp/event/sec/0711_youmake/launching/universe_bg_pc_v1.png')no-repeat;
+    height: 1800px;
+}
+.Subtitle3 .inner{
+    text-align: center;
+    margin-top: 150px;
+    width: 1300px;
+    height: 2500px;
+}
+.title_box{
+    justify-content: center;
+}
+.Subtitle3 .title{
+    font-size: 52px;
+    letter-spacing: -0.2rem;
+}
+.tab_list{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.tab_list ul{
+    display: flex;
+    justify-content: space-around;
+    width: 1100px;
+    padding-left: 0;    
+}
+.tab_list li{
+    width: 250px; height: 75px;
+    background: transparent;
+    border-radius: 40px;
+    border: 1px solid #8f91b6;
+    box-shadow: inset 0 0 15px 0 #8f91b6, 0 0 15px 0 #8f91b6;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 75px;
+    cursor: pointer;
+}
+.tab_list a{
+    color: #47434c;
+}
+
+.tab_content{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 1350px;
+}
+.buying_wrap{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    width: 700px;
+    height: 1330px;
+    background: url('https://images.samsung.com/kdp/event/sec/0711_youmake/launching/universe_tab1_bg_pc.png') no-repeat;
+    background-size: 700px 600px;
+}
+.swiper1{
+    display: inline-block;
+    justify-content: center;
+    width: 220px;
+    height: 700px;
+}
+.swiper2{
+    width: 220px;
+    height: 700px;
+}
+.swiper3{
+    width: 220px;
+    height: 700px;
+}
+.likebox{
+    margin: 0 auto;
+    width: 200px;
+    height: 45px;
+    line-height: 30px;
+    background: url('https://images.samsung.com/kdp/event/sec/0711_youmake/launching/heart_count_bg_pc.png')no-repeat;
+    letter-spacing: -0.1rem;
+}
+.likebox span{
+    font-weight: bolder;
+}
+.product_item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 620px;
+    background: white;
+    border-radius: 15px;
+}
+.box{
+    position: relative;
+}
+.tagbox{
+    position: absolute;
+    top: 20px;
+    left: 72px;
+}
+.tagbox span{
+    position: absolute;
+    top: 2px;
+    left: 10px;
+    font-size: 12px;
+    color: white;
+    font-weight: 700;
+}
+.scanbox{
+    position: absolute;
+    top: 70px;
+    left: 72px;
+}
+
+.img_box{
+    width: 100%;
+    height: 150px;
+}
+.img_wrap img{
+    margin-top: 10px;
+    max-width: 120px;
+}
+ .opt_box{
+    display: flex;
+    justify-content: center;
+    height: 70px ;
+}
+
+.size_box{
+    margin: 0 auto;
+    width: 80px;
+    height: 30px;
+    line-height: 30px;
+    color: white;
+    background: black;
+    border-radius: 15px;
+}
+.size_box2{
+    width: 170px;
+    display: flex;
+    justify-content: space-between;
+}
+.size_box2 p{
+    display: flex;
+    flex-direction: column;
+    width: 80px;
+    height: 30px;
+    line-height: 30px;
+    color: white;
+    background: black;
+    border-radius: 15px;
+}
+.name_box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    letter-spacing: -0.1rem;
+    margin-top: 25px;
+    font-weight: 700;
+    width: 210px;
+    height: 90px;
+    border-bottom: 1px solid #8f91b6;
+}
+.prd_sku{
+    display: flex;
+    font-weight: 100;
+}
+.prd_sku2{
+    margin-top: -5px;
+    font-weight: 100;
+}
+.txt_box{
+    display: flex;
+}
+.price_wrap{
+    letter-spacing: -0.1rem;
+}
+.price_box{
+    min-height: 62px;
+    width: 190px;
+    height: 80px;
+    padding-left: 0;
+    display: flex;
+    flex-direction: column;
+    font-size: 13px;
+
+}
+.selling_price{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 1px;
+}
+.txt_benefit{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 1px;
+    color: #77aee5;;
+}
+.txt_discount{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 1px;
+    color: #77aee5;;
+}
+
+.point_wrap{
+    display: flex;
+}
+.point_box{
+    border: 2px solid #77aee5 ;
+    border-radius: 15px;
+}
+.point_box ul{
+    padding-left: 0;
+    display: flex;
+    width: 190px;
+    flex-direction: column;
+    font-size: 11px;
+}
+.point_box li{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 1px;
+}
+.point_box span{
+    font-weight: 700;
+}
+.txt_total{
+    color: #77aee5;
+}
+.coupon_wrap{
+    display: flex;
+    justify-content: center;
+    width: 190px;
+    height: 30px;
+    background: rgb(209, 18, 209);
+    border-radius: 10px;
+}
+.coupon_wrap a{
+    font-size: 13px;
+    line-height: 30px;
+    color:white ;
+}
+.btn_box_wrap{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    height: 100%;
+
+}
+.btn_box{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+.btn1{
+    display: flex;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid #47434c;
+}
+.btn1 img{
+    margin-left: 5px;
+}
+
+.btn2{
+    display: flex;
+    align-items: center;
+    width: 80px;
+    height: 30px;
+    background:url('https://images.samsung.com/kdp/event/sec/0711_youmake/launching/btn_heart_bg_pc_v3.png') no-repeat;
+    background-size: cover;
+    justify-content: center;
+}
+.btn3{
+    width: 80px;
+    height: 30px;
+    background: black;
+    border-radius: 15px;
+    color: white;
+    line-height: 30px;
+}
+.btn3:hover{
+    width: 78px;
+    background: white;
+    border: 1px solid black;
+    color: black;
+}
+
+
+.event_wrap{
+    display:flex;
+    justify-content: center;
+    width:556px ;
+    height: 1300px;
+    background: white;
+    border-radius: 15px;
+    border: 1px solid #8f91b6;
+    box-shadow: inset 0 0 15px 0 #8f91b6, 0 0 15px 0 #8f91b6;
+}
+.event_top{
+    height:700px ;
+}
+.event_top .title_box{
+    display: flex;
+    justify-content: center;
+}
+.title1{
+    padding-top: 30px;
+}
+.title1 p{
+    font-size: 24px;
+    font-weight: bold;
+}
+.title1 span{
+    color: #7b23d1;
+}
+.event_txt{
+    font-size: 14px;
+    display: flex;
+    width: 440px;
+    justify-content:space-between;
+    font-weight: bold;
+}
+.event_txt span{
+    font-weight: bolder;
+}
+
+.event_box{
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: 150px;
+    background: #F1F1F1;
+    border-radius: 15px;
+}
+.event_box1{
+    display: flex;
+    width: 400px;
+    justify-content: space-around;
+    align-items: baseline;
+    margin-left: 50px;
+}
+.event_box1 p{
+    font-size: 12px;
+    
+}
+.event_box1 img{
+    float: left;
+}
+.event_box1 span{
+    float: left;
+    line-height: 25px;
+}
+.event_box2{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    justify-content: space-around;
+    margin-left: 90px;
+    margin-top: -10px;
+    letter-spacing: -0.05rem;
+}
+.event_box2 p{
+    display: flex;
+    align-items: baseline;
+    font-size: 12px;
+}
+
+.event_box2 span{
+    font-size: 15px;
+    font-weight: bolder;
+}
+.box2_txt{
+    margin-top: -5px;
+}
+.box2_txt span{
+    
+    font-size: 12px;
+    color:#7b23d1;
+}
+.step_box1{
+    position: absolute;top: 13px;left: 15px;
+    float: left;
+    width: 70px;
+    background: #7b23d1;
+    color: white;
+    border-radius: 5px;
+    padding: 2px 0;
+    margin: 0 5px 0 0 ;
+    font-size: 12px;
+}
+.step_box2{
+    position: absolute;bottom: 53px;left: 15px;
+    float: left;
+    width: 70px;
+    background: #7b23d1;
+    color: white;
+    border-radius: 5px;
+    padding: 2px 0;
+    margin: 0 5px 0 0 ;
+    font-size: 12px;
+}
+.event_gift{
+    margin-top: 20px;
+    width: 500px;
+    height: 230px;
+    border-bottom: 2px solid #8f91b6;
+}
+.event_gift h4{
+    width: 100%;
+
+}
+.event_gift span{
+    font-size: 14px;
+    font-weight: bold;
+}
+.gift{
+    float: left;
+    width: 125px;
+    align-items: baseline;
+    font-size: 13px;
+}
+
+.event_bottom{
+    display: inline-block;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.bottom_title{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+    width: 100%;
+    height: 90px;
+    border-bottom: 1px solid #47434c;
+}
+.bottom_title span{
+    color:  #7b23d1;
+    font-size: 23px;
+}
+.bottom_title p{
+    display: flex;
+    width: 120px;
+    height: 35px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 10px;
+    background: black;
+    font-weight: bold;
+    font-size: 14px;
+}
+.list{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    height: 70px;
+    border-bottom: 1px solid #47434c;
+    font-size: 14px;
+}
+.list p{
+    display:flex;
+    width: 400px;
+    text-align:left;
+}
+.button{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+}
+.number{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.number li{
+    background: white;
+    border: 1px solid #47434c;
+    margin-left: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
