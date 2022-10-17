@@ -1,9 +1,0 @@
-.con4_c img{
-    width: 700px;
-    height: 700px;
-    border-radius: 15px;
-}
-.con4_c{
-    display: flex;
-    justify-content: space-around;
-}
