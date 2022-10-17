@@ -1,0 +1,116 @@
+.footer{
+    display: inline-table;
+    justify-content: center;
+    width: 100%;
+    height: 780px;
+    border-top: 1px solid rgb(210, 207, 207);
+}
+.footer01{
+    width: 100%; height: 500px;
+    display: flex;
+    justify-content: center;
+
+}
+.footer01 h4{
+}
+.footer011{
+    display: inline-flex;
+    justify-content: space-around;
+    width: 490px;
+    height: 500px;
+    border-right: 1px solid rgb(210, 207, 207);
+}
+.footer011_1 {
+    margin-top: 65px;
+}
+.footer01 li{
+    margin-top: 15px;
+}
+.footer012{
+    display: inline-table;
+    justify-content: center;
+    width: 250px;
+    height: 484px;
+    border-right: 1px solid rgb(210, 207, 207);
+    padding-top: 16px;
+}
+
+.footer013{
+    display: inline-table;
+    justify-content: center;
+    width: 250px;
+    height: 484px;
+    border-right: 1px solid rgb(210, 207, 207);
+    padding-top: 16px;
+}
+.footer014{
+    display: inline-table;
+    justify-content: center;
+    width: 250px;
+    height: 484px;
+    border-right: 1px solid rgb(210, 207, 207);
+    padding-top: 16px;
+}
+.footer015{
+    display: inline-table;
+    justify-content: center;
+    width: 250px;
+    height: 484px;
+    padding-top: 16px;
+}
+
+.footer02{
+    display: flex;
+    width: 100%;height: 200px;
+    border-top: 1px solid rgb(210, 207, 207);
+    justify-content: center;
+}
+.footer021{
+    width: 1300px;
+    height: 200px;
+}
+.footer021 button{
+    border-radius: 15px;
+    background: rgb(108, 103, 103);
+    color: white;
+    border-style: none;
+}
+.footer021 p{
+    font-size: 12px;
+}
+.footer03{
+    display: flex;
+    width: 100%; height: 100px;
+    justify-content: center;
+    border-top: 1px solid rgb(210, 207, 207);
+}
+.footer031{
+    display: flex;
+    justify-content: space-between;
+    width: 1300px;
+    height: 100px;
+    align-items: center;
+}
+.footer031 p{
+    margin-right: 15px;
+    font-size: 13px;
+    font-weight: bold;
+}
+.footer031 select{
+    margin-right: 15px;
+    border-radius: 15px;
+    height: 50px;
+}
+.footer031 img{
+    margin-left: 25px;
+    width: 50px;
+}
+.footer031 .icon{
+    margin-top: 5px;
+    margin-right: 15px;
+}
+.footer031 .footer032{
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+}
